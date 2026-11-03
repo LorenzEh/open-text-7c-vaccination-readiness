@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Participant data is never part of this repository. The embeddings and raw
+# responses are available on request under DATA_USE_AGREEMENT.md; the synthetic
+# stand-in below is generated locally by code/MAKE_SYNTHETIC_DATA.py.
+data/
+data_synthetic/
+complete_dataset/

@@ -1,0 +1,8 @@
+dimension,abbrev,n,bart_pca_R2,bart_no_pca_R2,pca_cost_to_bart,bart_pca_RMSE,bart_no_pca_RMSE,ridge_pca_R2,ridge_no_pca_R2,like_for_like_gap_ridge_minus_bart,winner_on_matched_features
+Confidence,conf,761,0.3656,0.3933,0.0277,1.2237,1.1967,0.427,0.421,0.0277,Ridge
+Complacency,cmpcy,765,0.089,0.1369,0.0479,1.2482,1.215,0.1503,0.157,0.0201,Ridge
+Constraints,const,753,0.041,0.0695,0.0285,1.296,1.2766,0.0378,0.052,-0.0175,BART
+Calculation,calc,769,0.0579,0.0948,0.0369,1.1433,1.1207,0.0827,0.08,-0.0148,BART
+Coll. Responsibility,colr,767,0.3391,0.3767,0.0376,1.3759,1.3361,0.4361,0.433,0.0563,Ridge
+Compliance,compli,765,0.3916,0.3886,-0.003,1.2429,1.246,0.3889,0.389,0.0004,tie
+Conspiracy,consp,713,0.1808,0.2132,0.0324,1.2485,1.2236,0.2122,0.212,-0.0012,tie

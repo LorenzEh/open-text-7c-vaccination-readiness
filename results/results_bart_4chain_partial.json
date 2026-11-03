@@ -1,0 +1,120 @@
+{
+ "conf": {
+  "n": 761,
+  "r2": 0.3654867291312729,
+  "rmse": 1.2238710526570036,
+  "dims": [
+   223,
+   223,
+   224,
+   223,
+   222
+  ],
+  "rhat_sigma": 1.0022217030862552,
+  "rhat_mu_max": 1.1008786738878826,
+  "rhat_mu_mean": 1.018373159271473,
+  "rhat_mu_frac_gt101": 0.7030223390275953,
+  "ess_mu_min": 38.450807377107466,
+  "elpd_diff": 188.58577043317445,
+  "dse": 14.175036889514287
+ },
+ "cmpcy": {
+  "n": 765,
+  "r2": 0.08512347271635723,
+  "rmse": 1.2509060579219844,
+  "dims": [
+   239,
+   238,
+   236,
+   237,
+   239
+  ],
+  "rhat_sigma": 1.0197279687781953,
+  "rhat_mu_max": 1.1668480571122675,
+  "rhat_mu_mean": 1.0330170194963557,
+  "rhat_mu_frac_gt101": 0.869281045751634,
+  "ess_mu_min": 22.453904640691736,
+  "elpd_diff": 66.91750050287558,
+  "dse": 6.051556810398868
+ },
+ "const": {
+  "n": 753,
+  "r2": 0.0441431243531869,
+  "rmse": 1.2938593330088897,
+  "dims": [
+   239,
+   240,
+   239,
+   240,
+   239
+  ],
+  "rhat_sigma": 1.0168757350344264,
+  "rhat_mu_max": 1.1267567208795028,
+  "rhat_mu_mean": 1.029345808683323,
+  "rhat_mu_frac_gt101": 0.8818061088977424,
+  "ess_mu_min": 26.13404871005315,
+  "elpd_diff": 57.74794581659458,
+  "dse": 5.225475011868721
+ },
+ "calc": {
+  "n": 769,
+  "r2": 0.05366525127944477,
+  "rmse": 1.145858204277808,
+  "dims": [
+   222,
+   222,
+   221,
+   224,
+   220
+  ],
+  "rhat_sigma": 1.019730316429576,
+  "rhat_mu_max": 1.1785218166696096,
+  "rhat_mu_mean": 1.0270570358274071,
+  "rhat_mu_frac_gt101": 0.8387516254876463,
+  "ess_mu_min": 16.54722369914582,
+  "elpd_diff": 65.82232592212316,
+  "dse": 6.268101301628281
+ },
+ "colr": {
+  "n": 767,
+  "r2": 0.3488,
+  "rmse": 1.3658,
+  "elpd_diff": 189.75,
+  "dse": 15.0,
+  "rhat_sigma": 1.0058,
+  "rhat_mu_max": 1.0897,
+  "rhat_mu_frac_gt101": 0.721,
+  "ess_mu_min": 39.0,
+  "dims": null,
+  "rhat_mu_mean": null,
+  "_source": "reconstructed from run log; dims/rhat_mu_mean not captured"
+ },
+ "compli": {
+  "n": 765,
+  "r2": 0.3904,
+  "rmse": 1.2442,
+  "elpd_diff": 202.5,
+  "dse": 13.95,
+  "rhat_sigma": 1.0046,
+  "rhat_mu_max": 1.091,
+  "rhat_mu_frac_gt101": 0.7390000000000001,
+  "ess_mu_min": 45.0,
+  "dims": null,
+  "rhat_mu_mean": null,
+  "_source": "reconstructed from run log; dims/rhat_mu_mean not captured"
+ },
+ "consp": {
+  "n": 713,
+  "r2": 0.1836,
+  "rmse": 1.2465,
+  "elpd_diff": 105.87,
+  "dse": 9.12,
+  "rhat_sigma": 1.0036,
+  "rhat_mu_max": 1.1546,
+  "rhat_mu_frac_gt101": 0.6940000000000001,
+  "ess_mu_min": 22.0,
+  "dims": null,
+  "rhat_mu_mean": null,
+  "_source": "reconstructed from run log; dims/rhat_mu_mean not captured"
+ }
+}

@@ -1,0 +1,15 @@
+model,dimension,abbrev,n,R2,R2_ci_low,R2_ci_high,R2_ci_excludes_zero,RMSE,RMSE_ci_low,RMSE_ci_high
+BART (PCA),Confidence,conf,761,0.3656,0.3203,0.4089,yes,1.2237,1.1721,1.2771
+BART (PCA),Complacency,cmpcy,765,0.089,0.055,0.1249,yes,1.2482,1.1792,1.3271
+BART (PCA),Constraints,const,753,0.041,0.0146,0.068,yes,1.296,1.241,1.3534
+BART (PCA),Calculation,calc,769,0.0579,0.0263,0.0911,yes,1.1433,1.0874,1.2099
+BART (PCA),Collective Responsibility,colr,767,0.3391,0.2896,0.3844,yes,1.3759,1.3115,1.4408
+BART (PCA),Compliance,compli,765,0.3916,0.3471,0.4314,yes,1.2429,1.1889,1.3041
+BART (PCA),Conspiracy,consp,713,0.1808,0.1416,0.2201,yes,1.2485,1.1766,1.3311
+Ridge (unscaled),Confidence,conf,761,0.427,0.3695,0.4805,yes,1.163,1.1108,1.2232
+Ridge (unscaled),Complacency,cmpcy,765,0.1503,0.0915,0.2097,yes,1.2055,1.1414,1.2771
+Ridge (unscaled),Constraints,const,753,0.0378,-0.0046,0.0792,no,1.2982,1.2423,1.3561
+Ridge (unscaled),Calculation,calc,769,0.0827,0.055,0.1115,yes,1.1282,1.072,1.1943
+Ridge (unscaled),Collective Responsibility,colr,767,0.4361,0.3749,0.49,yes,1.2709,1.2085,1.3406
+Ridge (unscaled),Compliance,compli,765,0.3889,0.3309,0.4408,yes,1.2457,1.1885,1.308
+Ridge (unscaled),Conspiracy,consp,713,0.2122,0.1493,0.2695,yes,1.2244,1.1561,1.3013

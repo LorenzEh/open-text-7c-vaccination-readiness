@@ -1,0 +1,99 @@
+specification,text_dimension,score_dimension,is_diagonal,n,R2,RMSE
+scaled (published),Confidence,Confidence,yes,761,0.336,1.252
+scaled (published),Confidence,Complacency,no,761,-0.0208,1.3206
+scaled (published),Confidence,Constraints,no,761,-0.0543,1.3543
+scaled (published),Confidence,Calculation,no,761,-0.1847,1.2835
+scaled (published),Confidence,Collective Responsibility,no,761,0.0982,1.5995
+scaled (published),Confidence,Compliance,no,761,0.0738,1.5341
+scaled (published),Confidence,Conspiracy,no,761,0.2972,1.1414
+scaled (published),Complacency,Confidence,no,765,-0.0266,1.5494
+scaled (published),Complacency,Complacency,yes,765,0.0049,1.3046
+scaled (published),Complacency,Constraints,no,765,-0.054,1.3464
+scaled (published),Complacency,Calculation,no,765,-0.2169,1.3015
+scaled (published),Complacency,Collective Responsibility,no,765,-0.097,1.766
+scaled (published),Complacency,Compliance,no,765,-0.1581,1.7141
+scaled (published),Complacency,Conspiracy,no,765,0.0264,1.3307
+scaled (published),Constraints,Confidence,no,753,-0.0513,1.5774
+scaled (published),Constraints,Complacency,no,753,-0.0704,1.3617
+scaled (published),Constraints,Constraints,yes,753,-0.1044,1.3908
+scaled (published),Constraints,Calculation,no,753,-0.2197,1.3068
+scaled (published),Constraints,Collective Responsibility,no,753,-0.0327,1.7259
+scaled (published),Constraints,Compliance,no,753,-0.0977,1.6746
+scaled (published),Constraints,Conspiracy,no,753,-0.186,1.4816
+scaled (published),Calculation,Confidence,no,769,0.0425,1.4999
+scaled (published),Calculation,Complacency,no,769,-0.0965,1.3769
+scaled (published),Calculation,Constraints,no,769,-0.0703,1.362
+scaled (published),Calculation,Calculation,yes,769,-0.1273,1.2506
+scaled (published),Calculation,Collective Responsibility,no,769,-0.0766,1.7547
+scaled (published),Calculation,Compliance,no,769,-0.1618,1.7151
+scaled (published),Calculation,Conspiracy,no,769,0.0286,1.3361
+scaled (published),Collective Responsibility,Confidence,no,767,0.1464,1.4149
+scaled (published),Collective Responsibility,Complacency,no,767,-0.0062,1.3201
+scaled (published),Collective Responsibility,Constraints,no,767,-0.0129,1.3246
+scaled (published),Collective Responsibility,Calculation,no,767,-0.1789,1.278
+scaled (published),Collective Responsibility,Collective Responsibility,yes,767,0.3587,1.3554
+scaled (published),Collective Responsibility,Compliance,no,767,0.0938,1.5161
+scaled (published),Collective Responsibility,Conspiracy,no,767,0.0584,1.3146
+scaled (published),Compliance,Confidence,no,765,0.0802,1.4724
+scaled (published),Compliance,Complacency,no,765,-0.0224,1.3298
+scaled (published),Compliance,Constraints,no,765,-0.1602,1.4203
+scaled (published),Compliance,Calculation,no,765,-0.2745,1.3332
+scaled (published),Compliance,Collective Responsibility,no,765,0.1128,1.5955
+scaled (published),Compliance,Compliance,yes,765,0.2783,1.3538
+scaled (published),Compliance,Conspiracy,no,765,0.0507,1.3192
+scaled (published),Conspiracy,Confidence,no,713,0.1182,1.4647
+scaled (published),Conspiracy,Complacency,no,713,-0.099,1.3885
+scaled (published),Conspiracy,Constraints,no,713,-0.1128,1.4027
+scaled (published),Conspiracy,Calculation,no,713,-0.1848,1.2826
+scaled (published),Conspiracy,Collective Responsibility,no,713,0.0825,1.6343
+scaled (published),Conspiracy,Compliance,no,713,0.1435,1.4783
+scaled (published),Conspiracy,Conspiracy,yes,713,0.1207,1.2935
+unscaled (matched to BART),Confidence,Confidence,yes,761,0.427,1.163
+unscaled (matched to BART),Confidence,Complacency,no,761,0.1314,1.2182
+unscaled (matched to BART),Confidence,Constraints,no,761,0.1058,1.2473
+unscaled (matched to BART),Confidence,Calculation,no,761,0.0208,1.1669
+unscaled (matched to BART),Confidence,Collective Responsibility,no,761,0.2147,1.4927
+unscaled (matched to BART),Confidence,Compliance,no,761,0.1686,1.4535
+unscaled (matched to BART),Confidence,Conspiracy,no,761,0.3718,1.0791
+unscaled (matched to BART),Complacency,Confidence,no,765,0.0929,1.4565
+unscaled (matched to BART),Complacency,Complacency,yes,765,0.1503,1.2055
+unscaled (matched to BART),Complacency,Constraints,no,765,0.08,1.258
+unscaled (matched to BART),Complacency,Calculation,no,765,-0.0008,1.1803
+unscaled (matched to BART),Complacency,Collective Responsibility,no,765,0.0737,1.6228
+unscaled (matched to BART),Complacency,Compliance,no,765,0.0541,1.5491
+unscaled (matched to BART),Complacency,Conspiracy,no,765,0.1563,1.2387
+unscaled (matched to BART),Constraints,Confidence,no,753,0.1077,1.4532
+unscaled (matched to BART),Constraints,Complacency,no,753,0.0747,1.2661
+unscaled (matched to BART),Constraints,Constraints,yes,753,0.0378,1.2982
+unscaled (matched to BART),Constraints,Calculation,no,753,0.0449,1.1564
+unscaled (matched to BART),Constraints,Collective Responsibility,no,753,0.0988,1.6123
+unscaled (matched to BART),Constraints,Compliance,no,753,0.0575,1.5517
+unscaled (matched to BART),Constraints,Conspiracy,no,753,0.0942,1.2948
+unscaled (matched to BART),Calculation,Confidence,no,769,0.1553,1.4087
+unscaled (matched to BART),Calculation,Complacency,no,769,0.0367,1.2906
+unscaled (matched to BART),Calculation,Constraints,no,769,0.0334,1.2944
+unscaled (matched to BART),Calculation,Calculation,yes,769,0.0827,1.1282
+unscaled (matched to BART),Calculation,Collective Responsibility,no,769,0.075,1.6265
+unscaled (matched to BART),Calculation,Compliance,no,769,0.0164,1.5781
+unscaled (matched to BART),Calculation,Conspiracy,no,769,0.1484,1.2509
+unscaled (matched to BART),Collective Responsibility,Confidence,no,767,0.2558,1.3211
+unscaled (matched to BART),Collective Responsibility,Complacency,no,767,0.154,1.2104
+unscaled (matched to BART),Collective Responsibility,Constraints,no,767,0.1255,1.2308
+unscaled (matched to BART),Collective Responsibility,Calculation,no,767,0.0254,1.162
+unscaled (matched to BART),Collective Responsibility,Collective Responsibility,yes,767,0.4361,1.2709
+unscaled (matched to BART),Collective Responsibility,Compliance,no,767,0.2195,1.407
+unscaled (matched to BART),Collective Responsibility,Conspiracy,no,767,0.1836,1.2241
+unscaled (matched to BART),Compliance,Confidence,no,765,0.233,1.3446
+unscaled (matched to BART),Compliance,Complacency,no,765,0.1356,1.2227
+unscaled (matched to BART),Compliance,Constraints,no,765,0.0786,1.2657
+unscaled (matched to BART),Compliance,Calculation,no,765,0.0187,1.1698
+unscaled (matched to BART),Compliance,Collective Responsibility,no,765,0.2446,1.4722
+unscaled (matched to BART),Compliance,Compliance,yes,765,0.3889,1.2457
+unscaled (matched to BART),Compliance,Conspiracy,no,765,0.2025,1.2091
+unscaled (matched to BART),Conspiracy,Confidence,no,713,0.2358,1.3635
+unscaled (matched to BART),Conspiracy,Complacency,no,713,0.0701,1.2772
+unscaled (matched to BART),Conspiracy,Constraints,no,713,0.0837,1.2728
+unscaled (matched to BART),Conspiracy,Calculation,no,713,0.0289,1.1611
+unscaled (matched to BART),Conspiracy,Collective Responsibility,no,713,0.1624,1.5616
+unscaled (matched to BART),Conspiracy,Compliance,no,713,0.2159,1.4144
+unscaled (matched to BART),Conspiracy,Conspiracy,yes,713,0.2122,1.2244

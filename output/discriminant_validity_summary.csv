@@ -1,0 +1,15 @@
+specification,dimension,own_text_own_score_R2,best_other_score_R2,best_other_score,margin,own_text_predicts_own_score_best,own_score_best_predicted_by_own_text
+scaled (published),Confidence,0.336,0.2972,Conspiracy,0.0388,yes,yes
+scaled (published),Complacency,0.0049,0.0264,Conspiracy,-0.0215,no,yes
+scaled (published),Constraints,-0.1044,-0.0327,Collective Responsibility,-0.0717,no,no
+scaled (published),Calculation,-0.1273,0.0425,Confidence,-0.1698,no,yes
+scaled (published),Collective Responsibility,0.3587,0.1464,Confidence,0.2122,yes,yes
+scaled (published),Compliance,0.2783,0.1128,Collective Responsibility,0.1655,yes,yes
+scaled (published),Conspiracy,0.1207,0.1435,Compliance,-0.0228,no,no
+unscaled (matched to BART),Confidence,0.427,0.3718,Conspiracy,0.0552,yes,yes
+unscaled (matched to BART),Complacency,0.1503,0.1563,Conspiracy,-0.0061,no,no
+unscaled (matched to BART),Constraints,0.0378,0.1077,Confidence,-0.0699,no,no
+unscaled (matched to BART),Calculation,0.0827,0.1553,Confidence,-0.0726,no,yes
+unscaled (matched to BART),Collective Responsibility,0.4361,0.2558,Confidence,0.1803,yes,yes
+unscaled (matched to BART),Compliance,0.3889,0.2446,Collective Responsibility,0.1443,yes,yes
+unscaled (matched to BART),Conspiracy,0.2122,0.2358,Confidence,-0.0236,no,no

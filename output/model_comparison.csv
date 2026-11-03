@@ -1,0 +1,8 @@
+dimension,abbrev,bart_R2,ridge_scaled_R2,ridge_unscaled_R2,best_model,bart_RMSE,ridge_unscaled_RMSE
+Confidence,conf,0.3656,0.336,0.427,Ridge (unscaled),1.2237,1.163
+Complacency,cmpcy,0.089,0.0049,0.1503,Ridge (unscaled),1.2482,1.2055
+Constraints,const,0.041,-0.1044,0.0378,BART,1.296,1.2982
+Calculation,calc,0.0579,-0.1273,0.0827,Ridge (unscaled),1.1433,1.1282
+Collective Responsibility,colr,0.3391,0.3587,0.4361,Ridge (unscaled),1.3759,1.2709
+Compliance,compli,0.3916,0.2783,0.3889,BART,1.2429,1.2457
+Conspiracy,consp,0.1808,0.1207,0.2122,Ridge (unscaled),1.2485,1.2244

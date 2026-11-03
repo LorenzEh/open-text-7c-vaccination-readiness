@@ -1,0 +1,8 @@
+dimension,abbrev,ridge_scaled_original_grid,alpha_original,alpha_at_grid_ceiling,ridge_scaled_wide_grid,alpha_wide,ridge_unscaled,alpha_unscaled,bart_unscaled,bart_scaled,bart_effect_of_scaling
+Confidence,conf,0.336,100.0,yes,0.4205,1000.0,0.427,0.1,0.3656,0.3561,-0.0096
+Complacency,cmpcy,0.0049,100.0,yes,0.1122,10000.0,0.1503,0.1,0.089,0.0822,-0.0068
+Constraints,const,-0.1044,100.0,yes,0.071,10000.0,0.0378,1.0,0.041,0.0477,0.0067
+Calculation,calc,-0.1273,100.0,yes,0.0914,10000.0,0.0827,1.0,0.0579,0.0638,0.0058
+Collective Responsibility,colr,0.3587,100.0,yes,0.4289,1000.0,0.4361,0.1,0.3391,0.3423,0.0032
+Compliance,compli,0.2783,100.0,yes,0.3826,10000.0,0.3889,0.1,0.3916,0.3881,-0.0035
+Conspiracy,consp,0.1207,100.0,yes,0.2076,10000.0,0.2122,0.1,0.1808,0.1835,0.0027

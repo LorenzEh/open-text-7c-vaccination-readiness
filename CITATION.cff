@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Open text captures psychological antecedents of vaccination readiness: analysis code"
+type: software
+authors:
+  - family-names: Pires
+    given-names: Helena
+    affiliation: "Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna"
+  - family-names: Eckhard
+    given-names: Lorenz
+    affiliation: "Faculty of Psychology, University of Vienna"
+  - family-names: Wiedermann-Schmidt
+    given-names: Ursula
+    affiliation: "Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna"
+  - family-names: Böhm
+    given-names: Robert
+    affiliation: "University of Vienna"
+license: MIT
+repository-code: "TODO: GitHub URL once the repository is created"
+# TODO: add `doi:` once Zenodo mints one for the first tagged release.
+# TODO: add a `preferred-citation:` block with the article DOI after acceptance.
+references:
+  - type: data
+    title: "Vaccine Hesitancy: The Association Between Open- and Closed Response Questions"
+    url: "https://osf.io/k3hgn/"
+    notes: "Preregistration. OSF Registries continues to operate; it is the OSF Projects workflow that is being wound down."

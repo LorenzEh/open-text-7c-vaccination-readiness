@@ -1,0 +1,8 @@
+dimension,n,mean_polarity,pct_negative,pct_neutral,pct_positive
+Collective Responsibility,697,0.092,17.5036,53.5151,28.9813
+Confidence,747,-0.0415,15.1272,74.0295,10.8434
+Constraints,707,-0.2021,34.6535,51.6266,13.7199
+Complacency,739,-0.2037,33.6942,53.3153,12.9905
+Compliance,718,-0.2647,39.5543,48.0501,12.3955
+Calculation,742,-0.2843,37.1968,54.5822,8.221
+Conspiracy,615,-0.3324,40.813,54.6341,4.5528

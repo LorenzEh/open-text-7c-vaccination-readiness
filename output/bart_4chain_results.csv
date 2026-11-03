@@ -1,0 +1,8 @@
+dimension,abbrev,n,bart_r2_4chain,bart_r2_published,bart_rmse_4chain,bart_rmse_published,bart_elpd_diff_4chain,bart_elpd_diff_published,bart_dse_4chain,bart_dse_published,elpd_ratio,elpd_interpretation,rhat_sigma,rhat_sigma_below_1.01,rhat_mu_max,rhat_mu_pct_above_1.01,ess_mu_min,ridge_r2_scaled_published,ridge_r2_unscaled,better_model
+Confidence,conf,761,0.3655,0.364,1.2239,1.224,188.59,189.75,14.18,14.17,13.3,decisive support for BART over intercept-only null,1.0022,yes,1.1009,70.3,38,0.336,0.427,Ridge (unscaled)
+Complacency,cmpcy,765,0.0851,0.091,1.2509,1.246,66.92,69.48,6.05,6.60,11.1,decisive support for BART over intercept-only null,1.0197,NO,1.1668,86.9,22,0.005,0.150,Ridge (unscaled)
+Constraints,const,753,0.0441,0.038,1.2939,1.296,57.75,56.73,5.23,5.08,11.1,decisive support for BART over intercept-only null,1.0169,NO,1.1268,88.2,26,-0.104,0.038,BART
+Calculation,calc,769,0.0537,0.055,1.1459,1.143,65.82,66.72,6.27,6.44,10.5,decisive support for BART over intercept-only null,1.0197,NO,1.1785,83.9,17,-0.127,0.083,Ridge (unscaled)
+Collective Responsibility,colr,767,0.3488,0.342,1.3658,1.373,189.75,186.87,15.00,14.54,12.7,decisive support for BART over intercept-only null,1.0058,yes,1.0897,72.1,39,0.359,0.436,Ridge (unscaled)
+Compliance,compli,765,0.3904,0.389,1.2442,1.244,202.50,202.82,13.95,14.01,14.5,decisive support for BART over intercept-only null,1.0046,yes,1.0910,73.9,45,0.278,0.389,tie
+Conspiracy,consp,713,0.1836,0.184,1.2465,1.239,105.87,110.00,9.12,8.44,11.6,decisive support for BART over intercept-only null,1.0036,yes,1.1546,69.4,22,0.121,0.212,Ridge (unscaled)

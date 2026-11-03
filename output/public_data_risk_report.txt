@@ -1,0 +1,20 @@
+7C scores: 777 rows x 7 dimensions, readiness-coded (higher = greater readiness), no identifiers.
+  Published without coarsening: these are not linkable to any external source.
+
+demographics as collected: 622 combinations, 505 people unique (65%), 766 in groups smaller than 5
+  after banding age: k_min = 1, 211 still unique
+  after merging AT/CH: k_min = 1, 208 still unique
+  after dropping politics: k_min = 1, 87 still unique
+  after dropping religion: k_min = 1, 38 still unique
+
+RESULT: k = 1 after all coarsening steps, below the K_MIN = 5 target. Row-level demographics NOT written.
+        Deposit the aggregate table (Supplementary Table 3) instead, or
+        lower the number of variables released at row level.
+
+Coarsening applied:
+  - age banded into 5 groups
+  - Austria and Switzerland merged (Switzerland n = 22)
+  - political leaning dropped from the row-level file (it remains in the aggregate Supplementary Table 3)
+  - religion dropped from the row-level file (it remains in the aggregate Supplementary Table 3)
+
+NOT published at any coarsening: the embeddings (data/final_data_embeddings*.csv) and the response text. Sentence embeddings are invertible back to the text, so the issue is direct disclosure rather than linkage, and coarsening over participants does not address it. See README_RELEASE.md.

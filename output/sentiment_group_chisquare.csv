@@ -1,0 +1,5 @@
+level,group,n,n_negative,n_neutral,n_positive,pct_negative,pct_neutral,pct_positive,chi2,df,p,cramers_v
+response-level (clustered),non-hesitant,3938,1161,2212,565,29.48,56.17,14.35,34.8678,2,2.6825361682608728e-08,0.0838
+response-level (clustered),hesitant,1027,379,559,89,36.9,54.43,8.67,34.8678,2,2.6825361682608728e-08,0.0838
+"participant-level (modal, independent)",non-hesitant,607,133,429,45,21.91,70.68,7.41,7.461,2,0.023980382719342996,0.0987
+"participant-level (modal, independent)",hesitant,159,48,106,5,30.19,66.67,3.14,7.461,2,0.023980382719342996,0.0987

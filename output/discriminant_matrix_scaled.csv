@@ -1,0 +1,8 @@
+text_dimension \ score_dimension,Confidence,Complacency,Constraints,Calculation,Collective Responsibility,Compliance,Conspiracy
+Confidence,0.336,-0.0208,-0.0543,-0.1847,0.0982,0.0738,0.2972
+Complacency,-0.0266,0.0049,-0.054,-0.2169,-0.097,-0.1581,0.0264
+Constraints,-0.0513,-0.0704,-0.1044,-0.2197,-0.0327,-0.0977,-0.186
+Calculation,0.0425,-0.0965,-0.0703,-0.1273,-0.0766,-0.1618,0.0286
+Collective Responsibility,0.1464,-0.0062,-0.0129,-0.1789,0.3587,0.0938,0.0584
+Compliance,0.0802,-0.0224,-0.1602,-0.2745,0.1128,0.2783,0.0507
+Conspiracy,0.1182,-0.099,-0.1128,-0.1848,0.0825,0.1435,0.1207

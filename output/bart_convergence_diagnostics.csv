@@ -1,0 +1,8 @@
+dimension,abbrev,n,rhat_sigma,rhat_sigma_below_1_01,rhat_mu_max,pct_mu_above_1_01,ess_mu_min,ELPD_difference,DSE
+Confidence,conf,761,1.0022,yes,1.1009,70.3,38,188.59,14.18
+Complacency,cmpcy,765,1.0197,no,1.1668,86.9,22,66.92,6.05
+Constraints,const,753,1.0169,no,1.1268,88.2,26,57.75,5.23
+Calculation,calc,769,1.0197,no,1.1785,83.9,16,65.82,6.27
+Collective Responsibility,colr,767,1.0058,yes,1.0897,72.1,39,189.75,15.0
+Compliance,compli,765,1.0046,yes,1.091,73.9,45,202.5,13.95
+Conspiracy,consp,713,1.0036,yes,1.1546,69.4,22,105.87,9.12

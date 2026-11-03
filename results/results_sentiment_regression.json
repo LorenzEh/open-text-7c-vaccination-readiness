@@ -1,0 +1,72 @@
+{
+ "conf": {
+  "name": "Confidence",
+  "n": 681,
+  "intercept": 4.6528871391076105,
+  "coef_positive": 0.1709223847019115,
+  "p_positive": 0.3744367708195586,
+  "coef_negative": -1.190103967586567,
+  "p_negative": 8.017970912840844e-13,
+  "r_squared": 0.07769860658659278
+ },
+ "cmpcy": {
+  "name": "Complacency",
+  "n": 674,
+  "intercept": 5.558052434456929,
+  "coef_positive": 0.06263722071548458,
+  "p_positive": 0.68647674759064,
+  "coef_negative": -0.21894709535158782,
+  "p_negative": 0.04610790068843204,
+  "r_squared": 0.007381408516170862
+ },
+ "const": {
+  "name": "Constraints",
+  "n": 658,
+  "intercept": 4.375739644970409,
+  "coef_positive": 0.0923454614125636,
+  "p_positive": 0.5523869332396383,
+  "coef_negative": -0.004058229041212538,
+  "p_negative": 0.9717287901458509,
+  "r_squared": 0.0006136622087365984
+ },
+ "calc": {
+  "name": "Calculation",
+  "n": 674,
+  "intercept": 2.9338768115942013,
+  "coef_positive": 0.15097167325428065,
+  "p_positive": 0.3746118835070038,
+  "coef_negative": 0.2998549281136315,
+  "p_negative": 0.0019097603798184208,
+  "r_squared": 0.014311792333035145
+ },
+ "colr": {
+  "name": "Collective Responsibility",
+  "n": 640,
+  "intercept": 4.91788856304985,
+  "coef_positive": 0.5676186833269623,
+  "p_positive": 0.00022029989697207593,
+  "coef_negative": -0.5497726210208675,
+  "p_negative": 0.002360191001569563,
+  "r_squared": 0.04892780204341407
+ },
+ "compli": {
+  "name": "Compliance",
+  "n": 663,
+  "intercept": 3.634069400630912,
+  "coef_positive": 0.5511157845542737,
+  "p_positive": 0.004878262885491576,
+  "coef_negative": -0.5107989603793398,
+  "p_negative": 9.951145954576355e-05,
+  "r_squared": 0.04777389064313142
+ },
+ "consp": {
+  "name": "Conspiracy",
+  "n": 602,
+  "intercept": 5.331288343558277,
+  "coef_positive": 0.039082026812091615,
+  "p_positive": 0.8885961148874575,
+  "coef_negative": 0.13591379834265752,
+  "p_negative": 0.24665952819078635,
+  "r_squared": 0.002248610408027707
+ }
+}

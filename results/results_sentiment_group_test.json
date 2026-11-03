@@ -1,0 +1,110 @@
+{
+ "response_level": {
+  "table": {
+   "0": {
+    "negative": 1161,
+    "neutral": 2212,
+    "positive": 565
+   },
+   "1": {
+    "negative": 379,
+    "neutral": 559,
+    "positive": 89
+   }
+  },
+  "n": 4965,
+  "chi2": 34.86783613095656,
+  "dof": 2,
+  "p": 2.6825361682608728e-08,
+  "cramers_v": 0.0838017082783153,
+  "n_participants": 766,
+  "responses_per_participant": 6.481723237597911
+ },
+ "participant_level_modal": {
+  "table": {
+   "0": {
+    "negative": 133,
+    "neutral": 429,
+    "positive": 45
+   },
+   "1": {
+    "negative": 48,
+    "neutral": 106,
+    "positive": 5
+   }
+  },
+  "n": 766,
+  "chi2": 7.461038339141773,
+  "dof": 2,
+  "p": 0.023980382719342996,
+  "cramers_v": 0.09869275013081516
+ },
+ "followups": {
+  "negative": {
+   "chi2": 20.623825743957617,
+   "p": 5.589614301101885e-06,
+   "p_bonferroni": 1.6768842903305655e-05
+  },
+  "neutral": {
+   "chi2": 0.9309644577587058,
+   "p": 0.3346124366814331,
+   "p_bonferroni": 1.0
+  },
+  "positive": {
+   "chi2": 22.49468387592302,
+   "p": 2.10725972285318e-06,
+   "p_bonferroni": 6.32177916855954e-06
+  }
+ },
+ "by_dimension": {
+  "Calculation": {
+   "n": 742,
+   "mean_polarity": -0.2842902582298285,
+   "pct_negative": 37.19676549865229,
+   "pct_neutral": 54.5822102425876,
+   "pct_positive": 8.221024258760108
+  },
+  "Collective Responsibility": {
+   "n": 697,
+   "mean_polarity": 0.09200758119546484,
+   "pct_negative": 17.50358680057389,
+   "pct_neutral": 53.51506456241033,
+   "pct_positive": 28.98134863701578
+  },
+  "Complacency": {
+   "n": 739,
+   "mean_polarity": -0.2036833621001772,
+   "pct_negative": 33.69418132611637,
+   "pct_neutral": 53.31529093369418,
+   "pct_positive": 12.990527740189446
+  },
+  "Compliance": {
+   "n": 718,
+   "mean_polarity": -0.26472202820684965,
+   "pct_negative": 39.55431754874652,
+   "pct_neutral": 48.050139275766014,
+   "pct_positive": 12.395543175487465
+  },
+  "Confidence": {
+   "n": 747,
+   "mean_polarity": -0.0415364150779116,
+   "pct_negative": 15.127175368139223,
+   "pct_neutral": 74.02945113788488,
+   "pct_positive": 10.843373493975903
+  },
+  "Conspiracy": {
+   "n": 615,
+   "mean_polarity": -0.3324134277819046,
+   "pct_negative": 40.8130081300813,
+   "pct_neutral": 54.63414634146341,
+   "pct_positive": 4.5528455284552845
+  },
+  "Constraints": {
+   "n": 707,
+   "mean_polarity": -0.20210923239620304,
+   "pct_negative": 34.65346534653465,
+   "pct_neutral": 51.626591230551625,
+   "pct_positive": 13.71994342291372
+  }
+ }
+}
