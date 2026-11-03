@@ -16,7 +16,7 @@ authors:
     given-names: Robert
     affiliation: "University of Vienna"
 license: MIT
-repository-code: "TODO: GitHub URL once the repository is created"
+repository-code: "https://github.com/LorenzEh/open-text-7c-vaccination-readiness"
 # TODO: add `doi:` once Zenodo mints one for the first tagged release.
 # TODO: add a `preferred-citation:` block with the article DOI after acceptance.
 references:
