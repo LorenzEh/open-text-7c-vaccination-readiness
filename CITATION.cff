@@ -6,18 +6,23 @@ authors:
   - family-names: Pires
     given-names: Helena
     affiliation: "Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna"
+    orcid: "https://orcid.org/0009-0006-6299-1059"
   - family-names: Eckhard
     given-names: Lorenz
     affiliation: "Faculty of Psychology, University of Vienna"
+    orcid: "https://orcid.org/0009-0006-4621-9333"
   - family-names: Wiedermann-Schmidt
     given-names: Ursula
     affiliation: "Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna"
+    orcid: "https://orcid.org/0000-0002-1302-3223"
   - family-names: Böhm
     given-names: Robert
     affiliation: "University of Vienna"
+    orcid: "https://orcid.org/0000-0001-6806-0374"
 license: MIT
 repository-code: "https://github.com/LorenzEh/open-text-7c-vaccination-readiness"
-# TODO: add `doi:` once Zenodo mints one for the first tagged release.
+doi: "10.5281/zenodo.23919114"   # concept DOI: always resolves to the latest version
+version: "v1.0.0"
 # TODO: add a `preferred-citation:` block with the article DOI after acceptance.
 references:
   - type: data

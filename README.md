@@ -1,5 +1,7 @@
 # Open text captures psychological antecedents of vaccination readiness — code and results
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23919114.svg)](https://doi.org/10.5281/zenodo.23919114)
+
 Analysis code for the paper, together with every stored model output needed to
 re-derive the reported tables and figures.
 
