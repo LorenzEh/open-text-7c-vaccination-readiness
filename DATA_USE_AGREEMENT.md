@@ -72,15 +72,3 @@ Email the corresponding author with:
 
 A short description is enough; this is not a grant application. Expect a reply
 within two weeks.
-
----
-
-## For the authors: handling a request
-
-- Keep a log of who received the files, when, and for what stated purpose. Under
-  Art. 30 GDPR this is a processing activity.
-- Send over access-controlled transfer, not email attachments.
-- A request from outside the EU/EEA needs a transfer basis — check with the data
-  protection officer named in the participant privacy notice before sending.
-- If the request is for the **raw text** rather than the embeddings, that is a
-  different decision and should not be handled under this agreement.

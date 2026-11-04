@@ -81,8 +81,9 @@ Not asserted — tested. The release was copied to an empty directory with no
 
 ## If formal confirmation is wanted
 
-The data protection officer named in the participant privacy notice is Daniel
-Stanonik, verarbeitungsverzeichnis@univie.ac.at. The notice cites §2f(5) FOG and
+Queries go to the University of Vienna data protection officer at the functional
+address given in the participant privacy notice,
+verarbeitungsverzeichnis@univie.ac.at. The notice cites §2f(5) FOG and
 Art. 89(1) DSGVO and names the Open Science Framework as the intended archive;
 "ein öffentlich zugängliches Archiv" describes Zenodo equally well, which
 matters because OSF is winding down its Projects workflow (no new projects after

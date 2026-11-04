@@ -374,7 +374,7 @@ match.
   dimensions, which under-regularised the model and produced two negative R².
 - **Ridge is exploratory.** The preregistration specifies BART; ridge is a benchmark.
 
-### Known limitations, stated plainly
+### Known limitations
 
 - **Convergence.** R-hat for σ exceeds 1.01 on three of seven dimensions
   (max 1.020), and pointwise μ exceeds 1.01 for 69–88% of observations. The
