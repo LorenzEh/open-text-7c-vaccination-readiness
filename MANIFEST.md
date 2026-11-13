@@ -2,6 +2,21 @@
 
 sha256 of every released file, so a reader can verify the download.
 
+Check it from the root of the deposit:
+
+    grep -E '^[0-9a-f]{64}  ' MANIFEST.md | shasum -a 256 -c -
+
+This matters most for the archived copy on Zenodo, where you have downloaded a
+zip and the archive's own checksum covers the zip as a whole rather than the
+files inside it. In a git clone it is largely redundant: git content-hashes
+every file and verifies them for you.
+
+The listed hashes describe the tree as of the tagged release they were built
+with. Later commits to this repository can change a file without the manifest
+being rebuilt, so on the development repository a mismatch means the manifest
+is out of date, not that a file is corrupt. The archived version on Zenodo is
+frozen and always matches. Rebuild with `python code/MAKE_RELEASE.py`.
+
 a55f934dfa561ab7fa017a0b3f41486ebdcb06a83920e7786ed6c1bd446281f6  CITATION.cff
 d5e8f464258f264f1ee50c27dfe6759e0ee63d3ed2b721f40b23c5dcd06630b5  DATA_SHARING_SUMMARY.md
 b1059cb892589ab5e2ca76ca87cf5efebcdc87d8b11eaedac382ae2b1832bc05  DATA_USE_AGREEMENT.md
