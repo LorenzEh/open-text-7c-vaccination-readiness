@@ -55,7 +55,7 @@ use agreement.
 | | Access needed | Command | Time | Reproduces |
 |---|---|---|---|---|
 | **1. Verify** | the public deposit only | `python code/RUN_ALL.py` | < 1 min | every reported table and figure, plus a pass/fail check per published number |
-| **2. Execute** | public deposit + synthetic stand-in | `python code/MAKE_SYNTHETIC_DATA.py` then `PAPER2_DATA=data_synthetic python code/RUN_ALL.py --fast` | ~3 min | nothing numerically — it confirms the pipeline runs end to end on data with the real schema |
+| **2. Execute** | public deposit + synthetic stand-in | `python code/MAKE_SYNTHETIC_DATA.py` then `PAPER2_DATA=data_synthetic python code/RUN_ALL.py --fast` | ~35 min | nothing numerically — it confirms the pipeline runs end to end on data with the real schema |
 | **3. Refit** | embeddings, under the data use agreement | `python code/RUN_ALL.py` | ~2 h | every number from the features upward |
 
 Tier 1 is the one that matters for peer review, and it is complete: a reviewer
